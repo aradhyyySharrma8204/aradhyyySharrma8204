@@ -14,7 +14,7 @@
 - 💡 Love solving **real-world problems** through data and algorithms
 - 🔭 Currently working on **AI-powered stock price prediction & fraud detection**
 - 🌱 Always learning **new tech stacks & optimizing my coding skills**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/your-profile)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/aaradhya-sharma-b94337245/)**
 
 ---
 
@@ -52,7 +52,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFPWulwoafqGAAAAZXmxOQQmPHWSQxoxlvHrAJtVPibCH5bJTS6Fal3TFu2omvROkNtotsST45M2QCoU-N7UenNlZUORba3dQiFRF9ocG96H7q1b31wxC4GcbB9HXlntEHrXrI=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faaradhya-sharma-b94337245">
+  <a href="https://www.linkedin.com/in/aaradhya-sharma-b94337245/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-profile">
