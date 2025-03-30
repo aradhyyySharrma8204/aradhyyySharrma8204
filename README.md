@@ -52,13 +52,13 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFPWulwoafqGAAAAZXmxOQQmPHWSQxoxlvHrAJtVPibCH5bJTS6Fal3TFu2omvROkNtotsST45M2QCoU-N7UenNlZUORba3dQiFRF9ocG96H7q1b31wxC4GcbB9HXlntEHrXrI=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faaradhya-sharma-b94337245">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-profile">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://leetcode.com/u/Aaradhyyya_Sharrrma/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
